@@ -1,3 +1,3 @@
 penis=cock ;the p ;zaf_anthro;penis;bulge;penina;cage;chastity;trans ;sissy
 penis_not=chastity belt;penis conf;chastity pier
-penis_flags=10;28;29;44;53;54;55
+penis_flags=6;10;28;29;44;53;54;55
